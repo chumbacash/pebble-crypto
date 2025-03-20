@@ -1,4 +1,3 @@
-import { useEffect } from 'react';
 import { Card } from '@/components/ui/card';
 import { IntradayData } from '@/types/api';
 import {
